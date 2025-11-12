@@ -1,0 +1,2 @@
+# A-Lightweight-DBSCAN-Implementation-for-Embedded-Devices-DSP28335-Demo-
+This project is a lightweight implementation of the DBSCAN clustering algorithm for embedded devices, developed for the TI TMS320F28335 DSP chip. It successfully addresses the limitations of traditional DBSCAN algorithms, such as high memory consumption, complex computations, and poor adaptability to resource-constrained embedded scenarios.
